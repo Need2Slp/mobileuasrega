@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736592727118",
+    "project_id": "crud-a51c9",
+    "storage_bucket": "crud-a51c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736592727118:android:d9d1a5af30d8806016871f",
+        "android_client_info": {
+          "package_name": "com.example.mobileuasrega"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtrz9yhyNTFnGxODjSwlYrtmVOHs3TaI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
